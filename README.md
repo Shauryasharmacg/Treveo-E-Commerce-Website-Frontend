@@ -1,2 +1,20 @@
-# Treveo-E-Commerce-Website-Fronted
-A responsive, vintage-inspired e-commerce website featuring a premium analog audio aesthetic, elegant typography, immersive hero sections, and carefully crafted product showcases. Built with React, TypeScript, and Tailwind CSS, with a focus on clean UI, responsive layouts, and a seamless browsing experience across desktop and mobile devices.
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
+</div>
+
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/0c64f0d1-b9b3-41b3-a23a-4188c2850ccc
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

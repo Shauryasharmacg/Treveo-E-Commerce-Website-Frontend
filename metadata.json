@@ -1,0 +1,6 @@
+{
+  "name": "TROVEO — Maison Curation",
+  "description": "An uncompromising sanctuary for curated artefacts, bespoke furniture, and tactile luxury for modern interiors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
